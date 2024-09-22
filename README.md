@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m <b>Sushant-Gadyal</b>
 - 👀 I’m interested more into <b>Programming</b>
-- 🌱 I love <b>Solving Problems.</b>
+- ❤ I love <b>Solving Problems.</b>
 - 📫 How to reach me -> <b>linkedin<b>
 
 ![](https://komarev.com/ghpvc/?username=Sushant-Gadyal&style=flat-square)
