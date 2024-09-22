@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/917/971/718/welcome-neon-sign-yellow-snow-wallpaper-preview.jpg" width=300/>
+
 
 - 👋 Hi, I’m <b>Sushant-Gadyal</b>
 - 👀 I’m interested more into <b>Programming</b>
